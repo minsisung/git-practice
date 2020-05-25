@@ -10,9 +10,11 @@
 6. to commit files with message:
    "  git commit -m "Initial submit"   "
 
-7. to create new branch:
+7. check commiting history:
+   "  git log  "
+8. to create new branch:
    "  git branch namename   "
-8. check what branch you have:
+9. check what branch you have:
    "   git branch  "
-9. switch to different branch:
+10. switch to different branch:
    "  git checkout branch-name   "
