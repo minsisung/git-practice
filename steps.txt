@@ -18,3 +18,8 @@
    "   git branch  "
 10. switch to different branch:
    "  git checkout branch-name   "
+11. mergit branch to master:
+   " git merge branch-name   "
+12. push to remote repo:
+   " git remote add origin https:...(copy from your github repo page  "
+   " git push -u origin master   "
