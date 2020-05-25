@@ -1,0 +1,11 @@
+1. create folder
+2. initilize git environment:
+   " git init  " 
+3. add to git staging area:
+   " git add .  "
+4. checking status:
+   "  git status   "
+5. remove files from staging area:
+   "  git rm --cached -r . "
+6. to commit files with message:
+   "  git commit -m "Initial submit"   "
